@@ -1,8 +1,7 @@
 package com.vytrack.step_definitions;
 
 import com.vytrack.pages.LoginPage;
-import io.cucumber.java.en.Then;
-
+import io.cucumber.java.en.*;
 
 public class TopMenuStepDefinitions {
     LoginPage loginPage = new LoginPage();
